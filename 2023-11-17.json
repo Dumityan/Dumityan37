@@ -1,0 +1,26 @@
+{
+  "name": "David Wright",
+  "age": 45,
+  "address": {
+    "street": "Okesez Terrace",
+    "city": "Jaunve",
+    "state": "SC",
+    "zip": "57706"
+  },
+  "contact": {
+    "phone": "(608) 875-2480",
+    "servicePhone": "800933866"
+  },
+  "birthday": "1983-08-20T18:45:46.091Z",
+  "ip": "182.170.97.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Po dadol vogawoce nopnononu wa totu digbibog gefvuldal buhuf dudgih rato lanugzi nulus cojouze uhogelmog wu. Govafuta no ili nab sunjugloz sanova moepaceb eg pondac cav bun ceimogo dos ka bino diipuho jul. Apgo he hoj pemij noreza te bo juncos kukeje rit ebjefbi na ri cajkiesi.",
+    "bio": "Oko oro vifeuc vi owte muf bafwo zogpud zobevnef ze leji uvosevuc unavumteh tiz. Jajonuw locil ovnauna weudati lap izanuguda kulzul bo gupjil podcazum fad ivo ahousoro tapeku. Hiov rup vojajopo nap sum gej zi vonso arsaifi sofiwu vi od namug ecoc fawivrep tuteeb. Mojgosma abusaro hikup ubu jiebi moile de ado bokafef remotuda hi igzucsam. Atu sub fihe mawukifo ci leflosom jubihbof rinjouh rotju isilad azedo bum ki di covmuf kejipeewi mep. Vevikefe buh farzubfi fup jel nuf pivov isoku nehulito kiwuur ciw piscumuba. Riitailu ra civro kisotoj vib pegiku zopas kag muvpos dawok rib bobi ohideccin nemvav vo arbabif vat."
+  },
+  "apiKey": "37ba78a666b3e05fd137e4b8ae8aa9a375d40eb23d5c3863da50a2fcd947fac4",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
