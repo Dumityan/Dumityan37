@@ -1,0 +1,26 @@
+{
+  "name": "Jordan McDaniel",
+  "age": 48,
+  "address": {
+    "street": "Itozi Center",
+    "city": "Abtepa",
+    "state": "SC",
+    "zip": "30629"
+  },
+  "contact": {
+    "phone": "(527) 362-6604",
+    "servicePhone": "800837915"
+  },
+  "birthday": "1991-02-06T05:57:26.799Z",
+  "ip": "67.160.59.98",
+  "foo": "bar",
+  "profile": {
+    "about": "Ageni urnij gij owawuhhu linovrug gi heij li fekijgo jawugsu fakfav ecacdu giradu zi alhid modevkaj hismuwlod. Ate afagop huffe hihog capbab de nu mebuv lo udu we peg ragoav kim avir fiebe gi kampewu. Wente zudas rigtu imu tagbe pewlem liekipe mopozjo biczival fozev te ve bu rukru cunaplin dundu.",
+    "bio": "Te bejomcel oh vahew ra mul huto avpiacu la niipihe fi telizpa hoz norpevvu zo mudohowo gu. Raibho civarufu od ik nonkobma fo para cuc hokni nozsotjoc fimet pomhecku warow. Usekosa ojabe beoga nag mumfune oraulbo eduzutgug nanla sopgopifa ursemdif lewi asca omu lamuv azjaeji."
+  },
+  "apiKey": "53fd9663025051ae5d657085035a3960bbe67a3ff5d569617486741113cd5146",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
