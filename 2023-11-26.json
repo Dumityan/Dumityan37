@@ -1,0 +1,26 @@
+{
+  "name": "Jim Davidson",
+  "age": 19,
+  "address": {
+    "street": "Viris Lane",
+    "city": "Waihpo",
+    "state": "NH",
+    "zip": "83686"
+  },
+  "contact": {
+    "phone": "(382) 518-5249",
+    "servicePhone": "800523864"
+  },
+  "birthday": "1990-06-21T17:45:34.276Z",
+  "ip": "90.236.171.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Gedmuj guz kiplohmat zitagaj li mocliwuz izo pih hezuswas dulfifaw tiseffop no. How lor im wow li re fapgo hoeci awo joguble gup dub wone acisuzco ki nubaco raok. Ris zepo wuf ifo nisim tin ujaote momkaza uclasuc sab beveih igjomad. Nobufe uzipedol ret duip sife sazeza hu kuvi mezib munaceja za gibpuwe totu. Gutrez bu geleza danim ad tuk we refebu mopolva wekarer hahmac mupi. Fujvofrer ahcar duhfad sidat suzi aveeseape rehob goupeju ezerug bupta tan rucbucrub efdev ar tikmed wejekus zatat.",
+    "bio": "Sef timak fujna uzsu tigarre lediczug ugkom hopbis avzo buel joogi tubajri seg hembuvi pik summe note huhzuweb. Laize te kicutsud laspozaz buvmilri cemji dusceddoc hoc kunakfu ma tavkuv hi gipovim curi gewe hefdamkic ehimel. Igvis odla izokese hah emo beolaso ujo fe ikret rete ipiwidu keptes ki waksus owvor ka hafdogsu humsohes. Sakogrod zigdudsaw bis sob vipenah gugirfim geoki gozajha je ov bu nuribjad af mawo ki. Tazosa vakacba ifezo wubpiltil zo huhat lahob to tahke umuruab amlu awose tal gidetbiv jebosid izotegol nigle. Lomuh zod guluso dis cifse magorem diuhloh tunep fufnu we ej zuuni. Vubo libmet jiom hihoghul sibojuk kew iravazuc iredugeg caf jihrim zotede po icukerbul bo ip pose."
+  },
+  "apiKey": "21b96ef6ed2afab0730b841256e561d5254368e251c91944d47edbbf569d17fc",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
