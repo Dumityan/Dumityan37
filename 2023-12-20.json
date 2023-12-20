@@ -1,0 +1,26 @@
+{
+  "name": "Fanny King",
+  "age": 46,
+  "address": {
+    "street": "Melmi Circle",
+    "city": "Wisucuib",
+    "state": "MD",
+    "zip": "59334"
+  },
+  "contact": {
+    "phone": "(932) 894-7702",
+    "servicePhone": "800699615"
+  },
+  "birthday": "1993-12-10T17:51:59.329Z",
+  "ip": "217.80.214.193",
+  "foo": "bar",
+  "profile": {
+    "about": "Buf daminoh zema ek wotiwfu vodogzo remebapin efbahhed haluvnu ozico fetu tomwe upi. Uruabek le ef za gola guhecur sauju udsawmiv natli arupol mambensah koneku zerof vi. Vi laza hu gu kitoj ne bosu la saoseawa ob tilke sodege cil zujado kerraw kode ipa bozowu. Ara hopoc dice lih tudhu wukope baegdus givgi virir fa fel ribkojumu hiwuwowi jad etpob jac deuh hozuve.",
+    "bio": "Mokkoh foihe jifzocvo uwo diwez nav ro kup cu lanow tokra tapolfe ok noje fudauc ri bo. Womo hijrug hi ragtoce ati icej baidiitu onu boflav vohric fa hezoet wu hal hojus. Baja vewe bugi ris ri nug asiiteoc beadtov gukmo peaznet wuzirag emizu ka."
+  },
+  "apiKey": "8f2f8e76545953e44a99b3b1ff4877c8035cea47994f1aeb3d9eea6c927fd982",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
