@@ -1,0 +1,26 @@
+{
+  "name": "Alex Smith",
+  "age": 32,
+  "address": {
+    "street": "Rijam Point",
+    "city": "Ugefiof",
+    "state": "DC",
+    "zip": "08173"
+  },
+  "contact": {
+    "phone": "(340) 860-3073",
+    "servicePhone": "800653177"
+  },
+  "birthday": "1992-06-25T09:05:14.088Z",
+  "ip": "104.16.215.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Fegam real fa cok pozsik tansem elemev robifum bo ejicoweh fi vurkuf elmanja an. Heukiop fetedci lugmuvwej adokosze womidahu er rapowus po gopo din fe zo in pebduil. Det tewa roza memipe ledlipcos row luvok beg budupsov lu totwe jerovlaz cef itiemli ocuromaz vegvi. Ecpivu jiftatzu pi suggekuf cetil hem evowagba nelki ev wo ujoofe min. Zapoh rapetvi ok rufugtet joos rekme pit muzote mi aw awos god cina tugvaki nueb fahuzov lezve ovbemlo.",
+    "bio": "Nikodi gepib eczocsu begwad koftit zi femazit ahu mi ne dankedet dosej go. Nu nu odeuniori eg inepa degocwim oce suhaf wecnicu eca dumzenmo ni liof efa weonuha. No ebrujo si ki sutah hurtucof fisucnop mapewmef reriw zujwesmi otjeho zug peima. Ho tatvow wegilca zusub fivu je uzobosdu ot ci ca apnul hen joli wotdighec. Sibet ud edkinado hiwmow zalteh ekpo ja lof be razonra onitufrol bu hoglarah fefkohof la. Lacwetsil hasu mifu go uge dibzohbuf kuna ji fofrivkaf bedo giw ajereto duben uhadi ruema uvebais izhed dahwu."
+  },
+  "apiKey": "409c571fc58e8f03c63760db7beb7b22163f19c6ad69a0e8033bdce6bdbec709",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
