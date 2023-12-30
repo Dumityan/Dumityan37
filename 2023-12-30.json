@@ -1,0 +1,26 @@
+{
+  "name": "Louise Nichols",
+  "age": 23,
+  "address": {
+    "street": "Kamtor Loop",
+    "city": "Umetupep",
+    "state": "DC",
+    "zip": "22036"
+  },
+  "contact": {
+    "phone": "(775) 785-5725",
+    "servicePhone": "800135174"
+  },
+  "birthday": "1963-03-10T04:50:33.794Z",
+  "ip": "114.175.107.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Nubojwuk azilibluw ven pohitida zi amzoc paunu dizo bosa maivilin far hatiznen gajhaig enzaf hiz vijuv go. Bahtu ohaeb hujapa vuza okhig ecaefu zaj haljip tasop ru reup igekowboz zu kobnup revva. Ik giswoz was piz abi ulevew joaga hovok put joemi puza woitivin.",
+    "bio": "Logdom lunbije omepabnuh pom lilazo imeigo hegic ecerani wivpohi ojjinjip epte dawdehi vuvozca. Arliwcum ovepuoco mamu riteebo sal fodan hi davuhug eztejis zopji jouvba nufrovdi zal bib ru uv kikzeli kawehde. Ewiegiewi lo bouvoos dasa jo wemzu hocci zov opwo siwug zejfahcah gic rizecad tohpa."
+  },
+  "apiKey": "6dc58a1929faabf298917996a2e828fc41395127b99770bf243fd1224b533e02",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
