@@ -1,0 +1,26 @@
+{
+  "name": "Hunter Jensen",
+  "age": 42,
+  "address": {
+    "street": "Lozuto Square",
+    "city": "Bigacuh",
+    "state": "OH",
+    "zip": "05945"
+  },
+  "contact": {
+    "phone": "(653) 970-5048",
+    "servicePhone": "800995544"
+  },
+  "birthday": "1961-06-15T12:30:50.774Z",
+  "ip": "241.5.106.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Tozajosi umakoca ca wijdosga ov nin tubo ribi mu usbuje mab zeven sasdete jozup ivbo irutus. Kudwadgop pel jaijeuga hat iro mij cov zo ipi luollo hoz makasdi ugiludli pes imazi pe. Vuruhomun guvean izhugah gajuride zidvoh heilucam saku dioczu ejogugiw voujukoj odawumwi fuhuti. Dize wab tudub lag kib dibudbo geupguk le vugacwu zaof muwucu tez katituz neslogup acu. Tob fedeffe ecuogisen jamlev ib diggapsaf be lazoon av civlovbab pozoteajo ujhuba ituji ra fogalro az volesam. Uceebenig nuluvdiw zoowa ku lajkod vi podu bapa bev jikifrub ipa ebate jibada cog awi.",
+    "bio": "Gepek arugejmo tod jajcac to inuwi ukjewu buv eftod nuhba vivahin endad. Japu finoz jiv vasfezuf fe to jej nutpaezu jazwa wi fos mocuwohu li be oluwatez bemomgu. Vili dabhil lovtaak lubanoro me lees ezicro litiro gugza nuzaguduz omi butar dausos."
+  },
+  "apiKey": "7d4beaeb02cfc115b6c5ff5a403daa7bedb1312530dd0dd3315b984b828c9de2",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
