@@ -1,0 +1,26 @@
+{
+  "name": "Lois Todd",
+  "age": 65,
+  "address": {
+    "street": "Mila Junction",
+    "city": "Cersugsi",
+    "state": "TX",
+    "zip": "49329"
+  },
+  "contact": {
+    "phone": "(281) 445-9315",
+    "servicePhone": "800951841"
+  },
+  "birthday": "1989-12-13T14:29:24.403Z",
+  "ip": "199.0.175.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Dajuv sawhir pait rijumib paspu molewe da ceswu ormonutu lubkal ceem ar tar toted daiwagi ju barekaad. Diow be zulu upvut ec top icodota muhvuki ja zu vesosaujo fa ib. Ka cilcatem fi ipjiza hacgivfu gajgo ja vaw iwibuk ruwe wigofum ijulifow co sih rus.",
+    "bio": "Mo fujotoc kougeiti joekota zoz diza talu suwcares bol atvumip eki vil zuhe labe. Iwahublu ca uzizak dam so eb huf lira wabsooni ma juesgin dufuz. Ag ti anahju garfin ko kun ruva hathun gut soche jo rutusoj teahi. Huano ighupsin gusesuh hazmunji avubu pod pol zim siwjor daze cew birca ogvolmuj. Bic ficoja am duw fu siju wuhewi gowe aw ridfas cupakcid hiwevzeb desjivko husona."
+  },
+  "apiKey": "7a304f0e3d9dd049e7d109aee8d359eb0f79cd33af5310482e8d9f710a5dab2a",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
