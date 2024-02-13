@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Douglas",
+  "age": 34,
+  "address": {
+    "street": "Kumjen Plaza",
+    "city": "Tulobsu",
+    "state": "TX",
+    "zip": "22615"
+  },
+  "contact": {
+    "phone": "(786) 821-4240",
+    "servicePhone": "800924683"
+  },
+  "birthday": "2000-12-04T09:07:14.622Z",
+  "ip": "174.210.224.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Sobnug dugagep izhajo hasow cu razobej cokusbec jidje nodun lalek inbepci mal alagikok ipucow mepodji. Zotdil or zes mudaf muwtic kaor jum hev as gahzabhak cib ekpi zepfozco fap uke nowpuriz. Avunukraw ekikif rejev ehgokpo uziij konuge sasos uru dek anwe ijutat zu nob pewosa wihwofid wabonin johekin. Je ohjij takdehkob fuorku gojzelvo huzorev elefo taowo zahva lakegic faaluifo ac varus foca. Dem ru ajege er fod zab sureneg hah utiszib jatogfiw dirlor baladhem gig lisgeled.",
+    "bio": "Kiw vacsoggak oru gul jadsapjov wa remgip aheguco sal do gedugve uge gu haewki jijopdo lizbu icuhuda tohrum. Edhig riocci rafjubmug butkohza uhaw aspek puc ojuecisa iwi lije ribfudad din rod avobuha. Ci geiw sak napik ojlicu ufi ratazi zog ebvoemo ganu moduezo ivov ipuvafmo. Su vuera gasure vuvfahnu so raji or paig tejvom fes weniklo pakiv rephiza iteiku mamobkum. To vewwor etahuap gazisan giv fun jup uhpezgaf hig kiswu fasu nekza piopucar gar."
+  },
+  "apiKey": "1b367ce71199dfa8db9db8412c0cfb9d5afd74e2874553434de0e1f6c545a6b4",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
