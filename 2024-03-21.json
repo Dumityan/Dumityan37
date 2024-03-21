@@ -1,0 +1,26 @@
+{
+  "name": "Josephine Blair",
+  "age": 35,
+  "address": {
+    "street": "Korom Junction",
+    "city": "Akikepo",
+    "state": "DE",
+    "zip": "59519"
+  },
+  "contact": {
+    "phone": "(433) 913-6068",
+    "servicePhone": "800873544"
+  },
+  "birthday": "1995-06-08T14:53:10.644Z",
+  "ip": "202.178.189.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Li uno ofejej gesu ulapoija korzusfu ina citwu koge ras cuhomas va lisognap. Ak soc lidheh itoiz ulatom bontihi sib fug gege ihijumaj ca bif bo. Lohaze surluv sa vehivvi ni iwesikfiz abaig fifi uwafucpak ozusun tuku esu ebazi ropafujul zeerene zul tomrov.",
+    "bio": "Ga tuicigu lan kodpun rat hulvis aja lobne gisah kapavi tuv pumjondo tejuijo jugmuiwa. Rehilam ramumzad askapev ofiben giwhe lu co rami hoepire raof fiscomgo ura hirbor beat huvbefov obu. Irodi dowge usiuvtog paflo raadak zubji vigkivwuw bu kefofbe sojcov tew hikal la leracte cop lupukuf. Fotembi ki kil fu no ahcermav mimtuhafo ji soswed zogzerwod gi epwo afwov."
+  },
+  "apiKey": "0dd46a76c8301babd510a716d4ee03c9b5358d47fb9db193e0c0a1229153cc2d",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
