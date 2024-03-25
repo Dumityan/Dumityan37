@@ -1,0 +1,26 @@
+{
+  "name": "Lela Young",
+  "age": 32,
+  "address": {
+    "street": "Sime Loop",
+    "city": "Totihbo",
+    "state": "AL",
+    "zip": "66239"
+  },
+  "contact": {
+    "phone": "(686) 955-4908",
+    "servicePhone": "800874892"
+  },
+  "birthday": "1998-04-20T19:05:36.513Z",
+  "ip": "61.168.189.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Ipgo gah nidum zapze obuca rekrefon ecaam eso ace buvantev masosi ribla upbe. Te vuvgugbug eji sincelvo to barim ponmol inehilno osu dor te ta nerad. Nesjugpu siwase laal rejo pevuvo rew cacne pivatij uwo inopog co oratigi padomca kuso ma nicnon. Wo anozi sif du hejkosu hikof fairiuru kipuj ciawniw rij fajiruis fifihu wo bi jobaka honpe vo huhojnal.",
+    "bio": "Hoj jaadiho ces hoka zewzupev gu igfuvcal wevuddu me cagidso upaatina agelas fewinpo pijtelgas. Getwi tilvosum hu piwdeh oneov af ceg gezzipas avovibdo ci jeire mure. Apolti ewov vowhot esasiwlo ko iv kuwoba ekawic laumowo heleda asgal aku jo. Degud akgun gaf samazhu hamci fif caol jekure barfu zi hom utezijiw huzfa jupi leci okileok butpuz lefbucwek. Fi cazuhofi bunzomuk fer zehli ko jijom besika iccu hoonoji vijdilti fe kaipla wevo. Bozutgu dowejzu pasgo lah bisfoep hi vuimebu kuevca egumov vugpi iwba ulivod hilzel misu olmutdu ezigem ajhocuz vegtiw."
+  },
+  "apiKey": "be4a6a4eb27032cf35af5c9e1e44d7bc58f2fd71d05c11936321619ab36e4d28",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
