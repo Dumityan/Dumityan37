@@ -1,0 +1,26 @@
+{
+  "name": "Mildred Erickson",
+  "age": 59,
+  "address": {
+    "street": "Lujadu Square",
+    "city": "Tanijihu",
+    "state": "NM",
+    "zip": "28980"
+  },
+  "contact": {
+    "phone": "(737) 739-1831",
+    "servicePhone": "800359315"
+  },
+  "birthday": "1992-01-02T16:00:52.898Z",
+  "ip": "135.76.48.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Woczu ha nitehaz rus kas wam meptuz gog apiza bovimzig seugdu namtej joc. Iw avokiser re ra ragulav leidu le movur horivik seg inefaw niget abuug jafuc. Losra vezibze munuga oheed er befah envel an mub jiriv bac pelkedbap wed mi bojaid zihkuv wawitbe ina.",
+    "bio": "Uru pi iseki cuniwid ereb dojopweg ridreve tepjeweg sej ikatiboj okeca zek nefweti. Kagjoh ve havkotrup epi usfo baibi colmun cifarat vefus vihuvem vugvo igi. Gapci mobahsu zuz hitlupwu ahotizbej sifej reffob cueso se fusij ituiwror ajavetta hannehsu ibo kelzimik geraf ef. Guivoca luekevib ze jawad tu hunu harpu bumu tu ejavugva lusup wizguku."
+  },
+  "apiKey": "54e26a01696a7707a39f0bcae8e98fc79a3bb901df526a5fea79bd084bac4738",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
