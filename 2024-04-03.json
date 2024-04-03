@@ -1,0 +1,26 @@
+{
+  "name": "Alta Fields",
+  "age": 21,
+  "address": {
+    "street": "Reeba Mill",
+    "city": "Unajeleb",
+    "state": "VT",
+    "zip": "73292"
+  },
+  "contact": {
+    "phone": "(303) 661-9517",
+    "servicePhone": "800182577"
+  },
+  "birthday": "1992-11-23T15:40:21.663Z",
+  "ip": "168.160.41.153",
+  "foo": "bar",
+  "profile": {
+    "about": "Sudfakez ruku ega en huj feawa jormu ugda zejogsu duh zaci efpasid. Ka zofmiav ze uvoino malos ko jimo ig fe tumugmu ven uzapibum omabibon. Tunvize ba gu pozajeg vevcodi ufsu zikgagov fe emgu oglel hespomac kadfan ketehiz rar. Ofo javwiucu aw sepjapwen noedbit fodju bid gimulom cok vewow puwpeha ginev upajig elreudi hagvofdo. Pimaziz onanula habaala pawu gutofez neb belu tolim li lamacga zuvhap demovo mihu buhfo in cakhe lopogias rir. Baeso bu cadubtor te varer fo ra im eritu zolonok legij jim fubva agvanak hegpifbaz jot.",
+    "bio": "Uvnah rulo jotone jewfesi filcum imhuve herap govimumeg boslizad fiuki igivig zazkowga kugalu ifebennaw mowa fenut. Misoz gekrod lenzu fin cu rebfico utuwet woddi riforodi izivi cikrume hipucmen zupbenruv. Vu cuteta ma vokkoumo weizoin ti digbuufo liruzur ilirin duf wokitap uf kokhukut obfu obiririm jeedgo mirzuz. No owu kudwuwpe fahez buvjekur noczu ezoefuov dim umkig utzi kukuc wupdi ok cujema dogititum god go lomegec. Lucev iw jolgazize lipkacu ohoate cizracva sizku jeinel ram aro emiteflu fepduibu isi hitwuppos afuti."
+  },
+  "apiKey": "c91f632099a93d0643d45c48996acc8d5037cc4c334131aeb44f3591429ca14d",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
