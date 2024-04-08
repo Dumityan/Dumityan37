@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Goodman",
+  "age": 22,
+  "address": {
+    "street": "Baje Center",
+    "city": "Piruweg",
+    "state": "VA",
+    "zip": "08752"
+  },
+  "contact": {
+    "phone": "(835) 335-9128",
+    "servicePhone": "800275927"
+  },
+  "birthday": "1964-10-23T12:31:09.724Z",
+  "ip": "62.228.161.116",
+  "foo": "bar",
+  "profile": {
+    "about": "Fu ahje meci ibvekcu sawiwuf hoiwo nucgode anso timsikic besjid opduij butanveh fu id sup jomojiju. Ami wumru ge nad zerno ber gup hicepce givo voko ez navvi nal vov fuften nu wageg ezazukko. Epe vevmo lec juadjat jigcud mivi bu pi nuvsahhih tionuve beosele daofu fuz je. Buskuri cud ad moisi fur oh repurte ponnozoj pijcapnoj nufuval dophegce ozolosrej wi najsa esero. Kon lause zoozfag haj fukocog kus sat bobe codoblid jetic urzosik emutuncas unicefit ozo wi mitoahu. Su awba elwe metegwa ubujupiz zilof vajwan boclupzuz ilgu gadige wem kocihi uji losag ire surwopa zovrubar.",
+    "bio": "Jaskaihe lorjawwe co vutbekwu mekredbog rucelal bup witham kawjic mingufco sauko budlapce wucrap ak. Ruwnehsu bomdirap vimite ho zabebme pejuura fatfog tuvwo ceddinow nekriz jovrubap gan jawa ejauwbup dup oksinov lu taesta. Tobi limwif deic ga at deh cugo jeufudug wub biluhe wiboip an wegifoot pu awgam uzi. Juohufeh ifupaf ajpamu ulojika omi hofni owoenne woj forutib uwaef kuojeip fa lupgoc tol mo nusuuz pe. Vo pefreh owmabgap ru mucipus aju kab pumcu cum diheda jokuncov takha kup bijizalep zawberje gulo. Lebijri pev beom mamiv retebo eflusbi ojgel zofmibmi mi mo jihagveh uwuwip."
+  },
+  "apiKey": "1ece9f314704eaf4d0822a2b0e49098561fd9efefeeb4db76b550682b4b4a831",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
